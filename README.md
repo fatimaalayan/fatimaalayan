@@ -1,18 +1,26 @@
-# Hi there, I'm Fatima Alayan 👋
+# Hi, I'm Fatima Alayan 👋
 
-🎓 **Data Science Student** 
+🎓 **2nd-year Data Science student at Lebanese University**
 
-### 🚀 About Me:
-- 🔭 I’m currently learning **Data Science, Python, & SQL**.
-- 🌱 Exploring **Machine Learning & Data Analysis**.
-- 💼 Working on building real-world projects.
+Passionate about data, problem-solving, and continuous learning. Currently building my skills in Python, SQL, MySQL, databases, statistics, and OOP through academic learning and personal projects.
 
-### 🛠️ Tech Stack & Tools:
-- **Languages:** Python, Java, SQL
-- **Tools:** Git, GitHub, VS Code
+🎯 My goal is to specialize in Machine Learning and grow into a Data Scientist.
 
 ---
-📫 How to reach me: [ alayan.fatimah@gmail.com / https://www.linkedin.com/in/fatimaalayan ]
+
+### 🛠️ Skills
+
+- **Languages:** Python · SQL · Java · C++ · C
+- **Databases:** MySQL · Relational Databases
+- **Concepts:** Data Analysis · Statistics · OOP
+- **Tools:** Git · GitHub · VS Code
+
+---
+
+### 📫 Connect with me
+
+- 📧 **Email:** [alayan.fatimah@gmail.com](mailto:alayan.fatimah@gmail.com)
+- 💼 **LinkedIn:** [Fatima Alayan](https://www.linkedin.com/in/fatimaalayan)
 
 <!--
 **fatimaalayan/fatimaalayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
