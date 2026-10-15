@@ -1,38 +1,52 @@
+<div align="center">
 # Hi, I'm Fatima Alayan 👋
+### 🎓 Data Science Student @ Lebanese University | 🚀 AI-Native Product Builder
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatimaalayan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alayan.fatimah@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fatimaalayan)
+</div>
+---
+### 💡 About Me
+> **"Bridging the gap between data logic, system architecture, and functional AI-powered software."**
+* 🎓 **Education:** 2nd-year Data Science student at **Lebanese University**.
+* 🛡️ **Philosophy:** Building **privacy-first**, scalable data systems and AI tools.
+* 🎯 **Career Goal:** Specializing in Machine Learning and evolving into an expert Data Scientist.
+---
+### 🚀 Featured Projects
 
-🎓 **2nd-year Data Science student at Lebanese University**
-
-Passionate about data, problem-solving, and continuous learning. Currently building my skills in Python, SQL, MySQL, databases, statistics, and OOP through academic learning and personal projects.
-
-🎯 My goal is to specialize in Machine Learning and grow into a Data Scientist.
+| Project | Description | Status |
+| :--- | :--- | :--- |
+| **DataPulse Studio** | Advanced data analytics and product studio dashboard. | ⚡ `Completed` |
+| **RivalRadar** | AI-driven market intelligence and monitoring tool. | 🚧 `In Progress` |
 
 ---
-
-### 🛠️ Skills
-
-- **Languages:** Python · SQL · Java · C++ · C
-- **Databases:** MySQL · Relational Databases
-- **Concepts:** Data Analysis · Statistics · OOP
-- **Tools:** Git · GitHub · VS Code
-
+### 🛠️ Tech Stack & Skills
+<details>
+<summary><b>💻 Programming Languages</b></summary>
+<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+</details>
+<details>
+<summary><b>🗄️ Databases & System Architecture</b></summary>
+<br>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Relational Databases](https://img.shields.io/badge/Relational_Databases-4169E1?style=flat-square&logo=database&logoColor=white)
+![System Architecture](https://img.shields.io/badge/System_Architecture-0F172A?style=flat-square)
+</details>
+<details>
+<summary><b>🎯 Core Focus & Tools</b></summary>
+<br>
+![Data Science](https://img.shields.io/badge/Data_Science-14B8A6?style=flat-square)
+![AI Orchestration](https://img.shields.io/badge/AI_Orchestration-8B5CF6?style=flat-square)
+![Privacy-First Design](https://img.shields.io/badge/Privacy_First-10B981?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+</details>
 ---
-
-### 📫 Connect with me
-
-- 📧 **Email:** [alayan.fatimah@gmail.com](mailto:alayan.fatimah@gmail.com)
-- 💼 **LinkedIn:** [Fatima Alayan](https://www.linkedin.com/in/fatimaalayan)
-
-<!--
-**fatimaalayan/fatimaalayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+*✨ Designed with a focus on AI-Native Development & Data Science ✨*
+</div>
